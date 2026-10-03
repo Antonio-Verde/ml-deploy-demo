@@ -1,5 +1,7 @@
 # ML Deploy Demo
 
+**Status: work in progress.** This is an initial technical demo.
+
 An educational example of deploying a scikit-learn classifier as a FastAPI service, with Docker, automated tests and Prometheus metrics.
 
 ## Overview
